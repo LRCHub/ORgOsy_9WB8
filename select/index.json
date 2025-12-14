@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "If I Can't Have You",
+  "base_artist": "Shawn Mendes",
+  "createdAt": "2025-12-14T09:36:42.239359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Juliander",
+      "has_synced": true,
+      "path": "select/01_If_I_Can't_Have_You_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Kubb",
+      "has_synced": false,
+      "path": "select/02_If_I_Can't_Have_You_Kubb.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Can’t Have You",
+      "artist": "sweetbox",
+      "has_synced": true,
+      "path": "select/03_If_I_Can’t_Have_You_sweetbox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "潘瑋柏",
+      "has_synced": true,
+      "path": "select/04_If_I_Can't_Have_You_潘瑋柏.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "LFO",
+      "has_synced": false,
+      "path": "select/05_If_I_Can't_Have_You_LFO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/06_If_I_Can't_Have_You_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/07_If_I_Can't_Have_You_Various.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Yvonne Elliman",
+      "has_synced": true,
+      "path": "select/08_If_I_Can't_Have_You_Yvonne_Elliman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Enuff Z'Nuff",
+      "has_synced": false,
+      "path": "select/09_If_I_Can't_Have_You_Enuff_Z'Nuff.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Can’t Have You",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/10_If_I_Can’t_Have_You_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/11_If_I_Can't_Have_You_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/12_If_I_Can't_Have_You_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Esham",
+      "has_synced": false,
+      "path": "select/13_If_I_Can't_Have_You_Esham.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/14_If_I_Can't_Have_You_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Yvonne Elliman",
+      "has_synced": false,
+      "path": "select/15_If_I_Can't_Have_You_Yvonne_Elliman.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Linda Eder",
+      "has_synced": false,
+      "path": "select/16_If_I_Can't_Have_You_Linda_Eder.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/17_If_I_Can't_Have_You_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Waterboys",
+      "has_synced": false,
+      "path": "select/18_If_I_Can't_Have_You_Waterboys.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/19_If_I_Can't_Have_You_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "If I Can't Have You",
+      "artist": "Will Pan",
+      "has_synced": true,
+      "path": "select/20_If_I_Can't_Have_You_Will_Pan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If I Can't Have You",
+      "artist": "ショーン・メンデス",
+      "has_synced": false,
+      "path": "select/pl_01_If_I_Can't_Have_You_ショーン・メンデス.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "If I Can't Have You",
+      "artist": "ショーン・メンデス",
+      "has_synced": false,
+      "path": "select/pl_02_If_I_Can't_Have_You_ショーン・メンデス.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "If I Can't Have You",
+      "artist": "ショーン・メンデス",
+      "has_synced": false,
+      "path": "select/pl_03_If_I_Can't_Have_You_ショーン・メンデス.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "If I Can't Have You - Gryffin Remix",
+      "artist": "ショーン・メンデス",
+      "has_synced": false,
+      "path": "select/pl_04_If_I_Can't_Have_You_-_Gryffin_Remix_ショーン・メンデス.txt"
+    }
+  ]
+}
